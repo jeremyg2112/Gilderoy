@@ -1,0 +1,62 @@
+html, body {
+  text-align: center;
+  font-family: 'Noto Serif TC', serif;
+  min-width: 260px;
+  margin: 30px auto;
+  background-color: rgb(204, 227, 255);
+}
+
+h1 {
+  font-size: 65px;
+  font-family: 'Great Vibes', cursive;
+  display: inline;
+}
+
+h2 {
+  font-size: 28px;
+  font-family: 'Crimson Text', serif;
+  font-style: italic;
+}
+
+#tribute-info > p {
+  margin: 25px;
+}
+
+#img-div {
+  background: rgba(22, 59, 105, 40%);
+  padding-top: 30px;
+  padding-bottom: 1px;
+}
+
+#image {
+  max-width: 100%; 
+  display: block; 
+  max-height: auto;
+  margin: auto;
+}
+
+#second-image {
+  max-width: 100%;
+}
+
+#img-caption, #footer {
+  font-size: 12px;
+  padding: 10px;
+}
+
+#tribute-info {
+  font-size: 18px;
+  max-width: 960px;
+  margin: auto;
+}
+
+#additional-links {
+  width: 50%;
+  font-size: 1.1em;
+  margin: auto;
+  padding-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
