@@ -60,3 +60,7 @@ h2 {
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+#bottom_icon {
+  max-width: 250px;
+}
